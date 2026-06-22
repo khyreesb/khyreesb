@@ -6,7 +6,7 @@
   - [ICMP Traffic Analysis](https://github.com/khyreesb/icmp-traffic-analysis)
     
 - <b>VPN and IP Location </b>
-  - [VPN ](https://github.com/khyreesb/configure-ad)
+  - [VPN ](https://github.com/khyreesb/configure-ip)
 
 <h2>🤳Connect with me:</h2>
 
